@@ -17,9 +17,9 @@ A customizable floating chatbot widget for Flutter apps. Similar to web chat wid
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="assets/demo.gif" width="320">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Avya-Technologies/chatbot-support-kit/main/assets/demo.gif" alt="chatbot-support-kit" width="320"/>
+</div>
 
 ## 🚀 Installation
 
